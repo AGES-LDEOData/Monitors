@@ -24,9 +24,14 @@
         "value": 1.0
     },
     "L2": {
-        "error": 1.948466210784001e-10,
+        "error": 8.086248656455729e-11,
         "fit": "Average",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-N-2508",
+                "uuid": "a86530aa-55c6-4f44-a3fb-1219806c7598"
+            },
             {
                 "exclude": "ok",
                 "record_id": "a-01-N-2509",
@@ -194,11 +199,6 @@
             },
             {
                 "exclude": "ok",
-                "record_id": "a-01-N-2542",
-                "uuid": "dd1b2a0b-d9ee-4964-a182-57217fee36da"
-            },
-            {
-                "exclude": "ok",
                 "record_id": "a-01-N-2543",
                 "uuid": "7608b3a2-2373-4a7a-b051-3629cec13c79"
             },
@@ -236,39 +236,9 @@
                 "exclude": "ok",
                 "record_id": "a-01-N-2550",
                 "uuid": "ca2faa53-5fc3-4d7f-8af1-a6a8504d4635"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-N-2551",
-                "uuid": "b7c347bd-a3be-474d-b8c4-d10c486d4315"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-N-2552",
-                "uuid": "c7c7d868-3081-4d7b-9da5-d9139872a82b"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-N-2553",
-                "uuid": "10d4d491-0088-428b-b4d5-b8e0c576246d"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-N-2554",
-                "uuid": "25a34931-2fbe-48de-98c2-663a5d4167f5"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-N-2555",
-                "uuid": "3e4b7319-abbb-434e-b1e4-a1446ec405ec"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-01-N-2556",
-                "uuid": "05cbb596-5752-44df-8ebd-e13c0bf33933"
             }
         ],
         "reviewed": true,
-        "value": 1.8616473719090988e-08
+        "value": 1.8655464422741643e-08
     }
 }
