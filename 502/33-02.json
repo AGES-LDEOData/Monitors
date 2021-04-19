@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 19.6",
+    "aliquot": 2,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "a0ac0edafa9e03028ccafe4c2cabf0f01ce1c7ba",
+    "conditionals": null,
+    "data_reduction_software": "pychron 19.6",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Load81",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_co2.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "50233",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "AGESLDEO-114",
+    "irradiation_level": "D",
+    "irradiation_position": 19,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": 0.0,
+    "mass_spectrometer": "Ngx",
+    "material": "sanidine",
+    "measurement": "ngx_air_ten.py",
+    "post_equilibration": "ngx_pump_unknown.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "AGES-LDEO",
+    "project": "Monitors",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Monitors",
+    "rlocation": "",
+    "sample": "Fish Canyon Tuff",
+    "source": {
+        "emission": 1195.92,
+        "trap": 199.92368
+    },
+    "spec_sha": "2a813acaeadcd92be2a57b36b35c0e0943859370",
+    "timestamp": "2021-04-19T13:24:31.370831",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "46d81893-fc2f-4912-9a32-fe6ec64090ba",
+    "whiff_result": null
+}
