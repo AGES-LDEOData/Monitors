@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 2.0332164525745204,
+        "error": 2.6615723171110153,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 750,
         "include_baseline_error": false,
         "n": 750,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 306.0953716495335
+        "value": 260.33710639685216
     },
     "Ar37": {
         "error": 1.968878318140803e-07,
@@ -57,7 +57,7 @@
         "value": 2.5655268745398057e-05
     },
     "Ar39": {
-        "error": 3.4741391106467847e-06,
+        "error": 2.1177306217803563e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -66,17 +66,17 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0016628437917934145
+        "value": 0.0017005429718547878
     },
     "Ar40": {
-        "error": 1.546289682937133e-05,
+        "error": 5.6451819681865865e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -85,13 +85,13 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 75,
         "include_baseline_error": false,
         "n": 75,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.007092985801860325
+        "value": 0.006917434979914193
     }
 }
